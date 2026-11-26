@@ -1,6 +1,6 @@
 # Export Signal
 
-Exporte les conversations de Signal Desktop (celui installé sur ce PC) en pages web lisibles hors ligne,
+Exporte les conversations de Signal Desktop (celui installé sur le PC) en pages web lisibles hors ligne,
 avec les photos, vidéos, messages vocaux et fichiers. Texte brut et JSON en option.
 
 ## Utilisation
