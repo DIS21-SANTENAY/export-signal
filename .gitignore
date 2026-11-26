@@ -1,0 +1,4 @@
+bin/
+obj/
+# L'exécutable (64 Mo) est publié dans les Releases, pas dans l'historique
+*.exe
